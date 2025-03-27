@@ -1,0 +1,17 @@
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Infrastructure.deps.json
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Infrastructure.runtimeconfig.json
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Infrastructure.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Infrastructure.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Domain.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\bin\Debug\net8.0\MyEcommerce.Domain.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcomme.BE02DBCC.Up2Date
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\refint\MyEcommerce.Infrastructure.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\MyEcommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Infrastructure\obj\Debug\net8.0\ref\MyEcommerce.Infrastructure.dll

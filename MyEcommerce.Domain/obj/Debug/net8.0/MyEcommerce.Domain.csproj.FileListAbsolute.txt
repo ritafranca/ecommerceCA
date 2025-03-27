@@ -1,0 +1,11 @@
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\bin\Debug\net8.0\MyEcommerce.Domain.deps.json
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\bin\Debug\net8.0\MyEcommerce.Domain.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\bin\Debug\net8.0\MyEcommerce.Domain.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.AssemblyInfoInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.AssemblyInfo.cs
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\refint\MyEcommerce.Domain.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\MyEcommerce.Domain.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Domain\obj\Debug\net8.0\ref\MyEcommerce.Domain.dll

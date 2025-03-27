@@ -1,0 +1,17 @@
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Application.deps.json
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Application.runtimeconfig.json
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Application.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Application.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Domain.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\bin\Debug\net8.0\MyEcommerce.Domain.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.csproj.AssemblyReference.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.AssemblyInfoInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.AssemblyInfo.cs
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcomme.A5F1CE86.Up2Date
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\refint\MyEcommerce.Application.dll
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.pdb
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\MyEcommerce.Application.genruntimeconfig.cache
+C:\Users\rejan\Downloads\MyEcommerce_Complete\MyEcommerce.Application\obj\Debug\net8.0\ref\MyEcommerce.Application.dll
